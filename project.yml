@@ -26,6 +26,7 @@ targets:
     sources:
       - App
       - Shared
+      - AppIcons
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.personal.proxytoggle

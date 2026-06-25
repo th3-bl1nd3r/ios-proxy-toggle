@@ -4,6 +4,18 @@
 <dict>
     <key>CFBundleDisplayName</key>
     <string>Proxy Toggle</string>
+    <key>CFBundleIcons</key>
+    <dict>
+        <key>CFBundlePrimaryIcon</key>
+        <dict>
+            <key>CFBundleIconFiles</key>
+            <array>
+                <string>AppIcon29x29</string>
+                <string>AppIcon40x40</string>
+                <string>AppIcon60x60</string>
+            </array>
+        </dict>
+    </dict>
     <key>UILaunchScreen</key>
     <dict/>
     <key>UISupportedInterfaceOrientations</key>
